@@ -1,11 +1,11 @@
 div {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background-color: red;
     width: 400px;
     height: 500px;
     flex-wrap: nowrap;
-    overflow: scroll;
+    overflow: auto;
 }
 
 
